@@ -63,7 +63,7 @@ const locations = [
   },
   {
     name: "Cueva",
-    "button text": ["Pelear con slime", "Pelear con bestia con colmillos", "Volver al pueblo"],
+    "button text": ["Pelear con Esquelethor", "Pelear Maldito Arbol", "Volver al pueblo"],
     "button functions": [fightSlime, fightBeast, goTown],
     text: "acabas de entrar a la cueva. ves algun monstruo.",
     image: "images/cueva.png"
